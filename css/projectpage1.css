@@ -1,0 +1,88 @@
+
+.Page-header h1{
+  font: 500 55px/1.5 'Pacifico', Helvetica, sans-serif;
+  margin-left: 3%;
+  position: relative;
+}
+
+.logo {
+  margin-top: 1%;
+  margin-left: 1%;
+}
+
+.links {
+  margin-top: 60px;
+  margin-left: 65%;
+  position: absolute;
+  margin-bottom: 1%
+}
+
+a,a:link,a:visited {
+color: black;
+  padding-right: 90px;
+  font: 500 25px/1.5 'Pacifico', Helvetica, sans-serif;
+}
+
+.Image {
+  height: 400px;
+  background-size: 90%;
+  background: url(../images/084.jpg) no-repeat 0% 35% fixed; 
+  margin-left: 7%;
+  margin-right: 7%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.Image h1{
+  text-align: center;
+  padding-top: 10%;
+  font: 200 100px/1.5 'Pacifico', Helvetica, sans-serif;
+}
+
+.title {
+  color: black;
+  opacity: 1;
+}
+
+.one {
+  padding-top: 3%;
+  margin-top: 2%;
+  height: 780px;
+  background: rgba(211, 211, 211, 0.2);
+}
+
+.two {
+  padding-top: 3%;
+  margin-top: 2%;
+  height: 780px;
+}
+
+.img {
+  margin-top: 5%;
+  text-align: center;
+  position: relative;
+  padding-bottom: 5%;
+}
+
+.img h3 {
+  margin-top: 3%;
+}
+
+.img p{
+  margin-left: 13%;
+  margin-right: 13%;
+  text-align: center;
+  font: 400 15px/1.6 'Gudea', Verdana, Helvetica, sans-serif;
+  margin-bottom: 5%;
+}
+
+
+.footer {
+  padding-top: 3%;
+  text-align: center;
+  height: 100px;
+  font: 500 20px/1.5 'Pacifico', Helvetica, sans-serif;
+  background: rgba(211, 211, 211, 0.3);
+}
+
+
